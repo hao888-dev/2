@@ -1,0 +1,125 @@
+body{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.box {
+    height: 107%;
+    width: 30%;
+    background-color: rgb(34, 34, 34);
+    font-family: Arial;
+}
+.khung1 {
+    height: 15%;
+    width: 25%;
+    position: relative; top: 5%; left: 35%;
+    border: 2px solid rgba(19, 19, 19, 0);
+    background-color: white;
+    border-radius: 110%;
+    margin-top: 3% ;
+}
+.chu{
+    color: white ;
+    position: relative; top:10%; left: 0%;
+}
+.chu1{
+    text-indent: 5% ;
+    text-align: justify;
+    margin-left: 5%; margin-right: 5%;
+    font-size: 110%;
+}
+.thanh{
+    background-color: rgba(66, 66, 66, 0.615);
+    border-radius: 10px;
+    margin-left: 3%; margin-right: 3%; margin-top: 2px ;
+    overflow: hidden;
+}
+.chu2{
+    text-indent: 5% ;
+    text-align: justify;
+    margin-left: 4%;
+    font-size: 110%;
+}
+.box1 {
+    height: 100%;
+    width: 70%;
+    background-color: rgb(255, 255, 255);
+    font-family: Arial;
+   position: absolute; left: 30%;
+}
+.chu4{
+    font-size: 400%;
+    margin-left: 10% ; margin-top: 2%;
+    font-family: "Comic sans MS";
+}
+.anhgt{
+    width:4%;
+    height: 4%;
+}
+.vitri1{
+    position: relative; top: 8%; left:5%;
+    font-size: 150%;
+    display: inline-block;
+    position: relative;
+    margin-left: 4%; margin-top: -1%;
+}
+.dt{
+    width: 8%;
+    height: 0.2%;
+    background-color: rgba(168, 168, 168, 0.629);
+    position: absolute; left: 92%; top: 19.5%;
+}
+.dt1{
+    width: 35%;
+    height: 0.2%;
+    background-color:rgba(168, 168, 168, 0.629);
+    position: absolute; left: 29%; top: 19.5%;
+}
+.dt2{
+    width: 3%;
+    height: 0.2%;
+    background-color: rgba(168, 168, 168, 0.629);
+    position: absolute; left: 0%; top: 19.5%;
+}
+.chu5{
+    position: absolute; top: 25%; left:5%;
+}
+.dt3{
+    width: 78%;
+    height: 0.1%;
+    background-color:rgba(168, 168, 168, 0.629);
+    position: absolute; left: 22%; top: 27.7%;
+}
+.chu6{
+    position: absolute; top: 33%; left:10% ;
+    font-size: 150%;
+}
+.anhnote{
+    width: 50%; height: 50%;
+   filter: grayscale(80%) brightness(80%) contrast(120%);
+   position: absolute; top: 20%; left:40%;
+}
+.dt4{
+    width: 660%;
+    height: 1%;
+    background-color:rgba(168, 168, 168, 0.629);
+    position: absolute; left: 100%; top: 100%; 
+}
+.chu7{
+    position: absolute; top:62.5%; left:71% ;
+    font-size: 250%;
+}
+.dt5{
+    width: 70%;
+    height: 0.2%;
+    background-color:rgba(168, 168, 168, 0.629);
+    position: absolute; left: 0%; top: 65%; 
+}
+.chu8{
+    position: absolute; top: 70%; left: 5%;
+}
+.hcmuelogo{
+    width: 10%;
+    position: absolute;
+    left: 90%;
+}
